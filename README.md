@@ -37,12 +37,27 @@ Welcome to **AMMM!**, a sleek and modern grocery shopping app built using **Flut
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🔧 Prerequisites
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- Android Studio / Xcode / VS Code
+Make sure you have the following tools and packages installed:
 
-### Run the App
+- ✅ [Flutter SDK](https://flutter.dev/docs/get-started/install) (version `3.7.2` or later)
+- ✅ Dart SDK (included with Flutter)
+- ✅ Android Studio / Xcode / VS Code
+- ✅ A connected device or emulator
+- ✅ Dependencies used:
+  - `flutter_svg`
+  - `provider`
+  - `shared_preferences`
+  - `image_picker`
+  - `http`
+  - `flutter_credit_card`
+  - `flutter_launcher_icons`
+  - `loading_animation_widget`
+
+---
+
+### ▶️ Run the App
 
 ```bash
 git clone https://github.com/yourusername/ammm_flutter_app.git
