@@ -22,7 +22,10 @@ Welcome to **AMMM!**, a sleek and modern grocery shopping app built using **Flut
 
 | Home Screen         | Product Details     | Cart Page           |
 |---------------------|---------------------|---------------------|
-| ![](screenshots/home.png) | ![](screenshots/product.png) | ![](screenshots/cart.png) |
+| ![](![Simulator Screenshot - iPhone 14 - 2025-05-19 at 03 24 38](https://github.com/user-attachments/assets/b461b2fb-0a28-4380-ad31-a09e31d025ea)
+) | ![](![Simulator Screenshot - iPhone 14 - 2025-05-19 at 03 25 19](https://github.com/user-attachments/assets/12e5f453-a15f-4d63-9b69-eedab8c45bfd)
+) | ![](![Simulator Screenshot - iPhone 14 - 2025-05-19 at 03 25 06](https://github.com/user-attachments/assets/d393daaa-61a0-4c1f-aa7d-d20ac7419599)
+) |
 
 ---
 
